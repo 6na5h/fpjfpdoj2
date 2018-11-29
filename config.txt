@@ -1,6 +1,6 @@
 token=NTE3Nzk0MTcwMTE5NjUxMzI4.DuHZWQ.7TGn8_hh0gwfehKNmWEXkox1i_E
-owner=509719956473249802
-prefix= G
-game= Gplay
+owner=353889031622492169
+prefix= li
+game= liplay
 stayinchannel=true
 songinstatus=true 
